@@ -2,8 +2,18 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+"... It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, 
+with birds singing on the bushes, with various insects flitting about, and with worms crawling 
+through the damp earth, and to reflect that these elaborately constructed forms, 
+so different from each other, and dependent on each other in so complex a manner, 
+have all been produced by laws acting around us."    
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
+<div align="right">
+  —— Darwin, 1859
+</div>
+           
+           
+           
+My name is Hai-Dong Li, I am interested in understanding any type of biotic interactions 
+in our changing world.
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).

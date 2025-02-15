@@ -37,7 +37,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "Wecome to my personal website."
+  description: "Welcome to my personal website."
   footer: "&copy; [Hai-Dong Li](https://github.com/PrimulaLHD) 2024-{Year} | [Github](https://github.com/PrimulaLHD)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
