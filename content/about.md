@@ -4,7 +4,7 @@ date: "2025-02-15"
 title: Ecological Network
 ---
 ![frugivory](/img/frugivory2.png)
-My name is Hai-Dong Li, I am interested in understanding any type of biotic interactions 
+My name is Hai-Dong Li, Associate Professor at KIB, I am interested in understanding any type of biotic interactions 
 in our changing world.      
 
 How the biodiversity shaped on earth? Darwin had stated that the evolution of biodiversity 
