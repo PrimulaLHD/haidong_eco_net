@@ -11,7 +11,7 @@ tags: []
 
 - **Metacommunity Ecology**     
 
-- **Development methods to understand ecological networks and community dynamics**            
+- **Development of methods to understand ecological networks and community dynamics**            
 We are also interested in developing methods, particularly approaches for 
 understanding ecological networks and community dynamics. Such as:   
 
