@@ -7,7 +7,10 @@ categories: []
 tags: []
 ---
 
-**Papers**
+**Papers**       
+
+## 2024
+- Li HD. 2024. BiMultiNetPlot: An R package for visualizing ecological bipartite multilayer networks. bioRxiv, 2024-09.
 ## 2023   
 - Li HD, Holyoak M, Xiao ZS*. 2023. Disentangling spatiotemporal dynamics in metacommunities through a species-patch network approach. Ecology Letters. 26: 1261-1276. 
 - Li HD, Tang LF, Jia CX, Holyoak M, Fründ J, Huang XQ, Xiao ZS*. 2023. Considering vertical space reveals hidden links and increased modularity of plant–frugivore networks, OIKOS. 2023: e09327. 
