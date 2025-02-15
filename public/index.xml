@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title></title>
+      <link>//localhost:4321/note/2025/02/15/a-quick-note/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/note/2025/02/15/a-quick-note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/note/2025/02/15/another-note/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/note/2025/02/15/another-note/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CV</title>
       <link>//localhost:4321/cv/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
@@ -27,7 +41,7 @@
       <link>//localhost:4321/about/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/</guid>
-      <description>&lt;p&gt;How the biodiversity shaped on earth? Darwin had stated that the evolution of biodiversity&#xA;on earth involved two aspects: species diversity and the interactions diversity. But how inter-specific interactions shaped the biodiversity?&lt;/p&gt;</description>
+      <description>&lt;p&gt;My name is Hai-Dong Li, I am interested in understanding any type of biotic interactions&#xA;in our changing world.&lt;/p&gt;&#xA;&lt;p&gt;How the biodiversity shaped on earth? Darwin had stated that the evolution of biodiversity&#xA;on earth involved two aspects: species diversity and the interactions diversity. But how inter-specific interactions shaped the biodiversity?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -42,20 +56,6 @@
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/research/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ecological network vary across time and space&lt;/strong&gt;   &lt;br&gt;&#xA;My research explores the dynamic changes of ecological networks in space and time and&#xA;its impact on biodiversity and ecosystem function. Using pollination and seed dispersal&#xA;networks as model systems, I am committed to analyzing how ecological networks&#xA;respond to natural environmental gradients (e.g., altitude, habitat diversity)&#xA;and human-driven environmental changes (e.g., forest fragmentation and climate change),&#xA;and to deeply examine the temporal dynamics of ecological networks (e.g., seasonal dynamics).&#xA;My research objective is to reveal the relationship between ecological network&#xA;structure and function, and their response mechanisms to environmental change,&#xA;thereby providing a theoretical foundation for biodiversity conservation and&#xA;sustainable ecosystem management.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>//localhost:4321/note/2017/06/14/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/note/2017/06/14/another-note/</guid>
-      <description>&lt;p&gt;I just discovered &lt;a href=&#34;https://apreshill.rbind.io/post/up-and-running-with-blogdown/&#34;&gt;an awesome tutorial&lt;/a&gt; on &lt;strong&gt;blogdown&lt;/strong&gt; written by Alison. I have to admit this is &lt;em&gt;the&lt;/em&gt; best &lt;strong&gt;blogdown&lt;/strong&gt; tutorial I have seen so far.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://alison.rbind.io/blog/2017-06-up-running-with-blogdown/blogdown-signpost-1.png&#34; alt=&#34;Alison&amp;rsquo;s blogdown tutorial&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>//localhost:4321/note/2017/06/13/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/note/2017/06/13/a-quick-note/</guid>
-      <description>&lt;p&gt;To me, the two most impressive websites based on &lt;strong&gt;blogdown&lt;/strong&gt; are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://robjhyndman.com&#34;&gt;Rob J Hyndman&lt;/a&gt;&amp;rsquo;s personal website.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://livefreeordichotomize.com&#34;&gt;Live Free or Dichotomize&lt;/a&gt; by Lucy and Nick &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure there will be more.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

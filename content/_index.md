@@ -14,6 +14,5 @@ have all been produced by laws acting around us."
            
            
            
-My name is Hai-Dong Li, I am interested in understanding any type of biotic interactions 
-in our changing world.
+
 
