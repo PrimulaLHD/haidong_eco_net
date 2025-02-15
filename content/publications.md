@@ -25,7 +25,7 @@ tags: []
 - Zhao YH, Memmott J, Vaughan I, Li HD, Ren ZX, Lazaro A, Zhou W, Xu X, Wang WJ, Liang H, Li DZ, Wang H. 2021. The impact of a native dominant plant, Euphorbia jolkinii, on plant-flower visitor networks and plant reproductive success in sub-alpine meadows of Shangri-La, SW China. Journal of Ecology, 109(5): 2107-2120
 
 ## 2020
-- Li HD, Tang L, Jia C, Holyoak M, Fründ J, Huang X, Xiao ZS*. 2020. The functional roles of species in metacommunities, as revealed by metanetwork analyses of bird–plant frugivory networks. Ecology Letters. 23: 1252-1262. （IF5-Year = 9.8）
+- Li HD, Tang L, Jia C, Holyoak M, Fründ J, Huang X, Xiao ZS*. 2020. The functional roles of species in metacommunities, as revealed by metanetwork analyses of bird–plant frugivory networks. Ecology Letters. 23: 1252-1262.
 
 ## 2019      
 - Tang H, Hood ME, Ren ZX, Li DZ, Li HD, Zhao YH, Wolfe LM, Wang H*. 2019. Specificity and seasonal prevalence of anther-smut disease on sympatric Himalayan Silene species. Journal of Evolutionary Biology. 32: 451-462. https://doi.org/10.1111/jeb.13427
