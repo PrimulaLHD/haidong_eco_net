@@ -28,7 +28,7 @@ and stability to critical ecological functions at the metacommunity scale.
 
 
 - **Development of methods to understand ecological networks and community dynamics**            
-We are also interested in developing methods, particularly approaches for 
+I am also interested in developing methods, particularly approaches for 
 understanding ecological networks and community dynamics. Such as:   
 
 -- We developed a [species-patch network framework](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14243) 
