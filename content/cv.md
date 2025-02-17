@@ -17,8 +17,8 @@ Prof. [Carsten Dormann](https://www.biom.uni-freiburg.de/mitarbeiter/dormann)'s 
 - 2008.09 -- 2012.07: B.S., Biological Science, Yunnan University, China.
 
 **Work Experience**
-- 2023 -- Associate Professor, Kunming Institute of Botany, CAS
-- 2021.01 -- 2023.016: Postdoctoral Fellow, Institute of Zoology, CAS
+- 2023.06 -- Associate Professor, Kunming Institute of Botany, CAS
+- 2021.01 -- 2023.06: Postdoctoral Fellow, Institute of Zoology, CAS
 - 2017.04 -- 2017.09: Research assistant, Institute of Zoology, CAS
 - 2016.01 -- 2017.04: Research assistant, Kunming Institute of Botany, CAS
 
