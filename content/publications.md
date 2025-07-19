@@ -1,14 +1,15 @@
 ---
 title: 'Publications'
 author: Hai-Dong Li
-date: '2025-02-15'
+date: '2025-07-19'
 slug: publications
 categories: []
 tags: []
 ---
 
 **Papers**       
-
+## 2025
+- Xu X, Liang H, Ren ZX, Maruyama PK, Rech AR, Trunschke J, Zhao YH, Li HD. and Wang H. 2025, Generalised bumblebee–flower interactions demonstrate weak floral niche partitioning despite a high bee diversity. Ecography e07956. https://doi.org/10.1002/ecog.07956
 ## 2024
 - Li HD. 2024. BiMultiNetPlot: An R package for visualizing ecological bipartite multilayer networks. bioRxiv, 2024-09.
 ## 2023   
