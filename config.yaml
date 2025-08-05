@@ -38,7 +38,7 @@ menu:
 
 params:
   description: "Welcome to my personal website."
-  footer: "&copy; [Hai-Dong Li](https://github.com/PrimulaLHD) 2024-{Year} | [Github](https://github.com/PrimulaLHD)"
+  footer: "&copy; [Hai-Dong Li](https://github.com/PrimulaLHD) 2025-{Year} | [Github](https://github.com/PrimulaLHD)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
