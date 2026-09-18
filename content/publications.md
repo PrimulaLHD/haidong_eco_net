@@ -1,7 +1,7 @@
 ---
 title: 'Publications'
 author: Hai-Dong Li
-date: '2026-02-11'
+date: '2026-09-18'
 slug: publications
 categories: []
 tags: []
