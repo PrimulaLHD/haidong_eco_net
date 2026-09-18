@@ -9,8 +9,7 @@ tags: []
 
 **Papers**       
 ## 2026         
-- LHD#, Zhao YH#, Holyoak M, Tao ZB, Xu K, Wu ZK, Wang H, Li DZ. Trophic and environmental generalists maintain pollinator network functional continuity by switching modules through time. Ecology and Evolution. 2026, https://doi.org/10.1002/ece3.74263
-
+- LHD#, Zhao YH#, Holyoak M, Tao ZB, Xu K, Wu ZK, Wang H, Li DZ. 2026. Trophic and environmental generalists maintain pollinator network functional continuity by switching modules through time. *Ecology and Evolution*.  https://doi.org/10.1002/ece3.74263
 
 ## 2025
 - Chen L, Lázaro A, Li HD, Tao Z, Yin J, Zhong M, Meng G, Li P, Qiu S, Li D, Wang H, Zhao YH. 2025. Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows. *Journal of Plant Ecology*, rtaf194, https://doi.org/10.1093/jpe/rtaf194         
