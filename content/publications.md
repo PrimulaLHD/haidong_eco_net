@@ -7,9 +7,9 @@ categories: []
 tags: []
 ---
 
-**Papers**       
+# **Papers**       
 ## 2026         
-- LHD#, Zhao YH#, Holyoak M, Tao ZB, Xu K, Wu ZK, Wang H, Li DZ. 2026. Trophic and environmental generalists maintain pollinator network functional continuity by switching modules through time. *Ecology and Evolution*.  https://doi.org/10.1002/ece3.74263
+- LHD#, Zhao YH#, Holyoak M, Tao ZB, Xu K, Wu ZK, Wang H, Li DZ. 2026. Trophic and environmental generalists maintain pollinator network functional continuity by switching modules through time. *Ecology and Evolution*, 16(9): e74263. https://doi.org/10.1002/ece3.74263
 
 ## 2025
 - Chen L, Lázaro A, Li HD, Tao Z, Yin J, Zhong M, Meng G, Li P, Qiu S, Li D, Wang H, Zhao YH. 2025. Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows. *Journal of Plant Ecology*, rtaf194, https://doi.org/10.1093/jpe/rtaf194         
@@ -19,7 +19,7 @@ tags: []
 ## 2023   
 - Li HD, Holyoak M, Xiao ZS. 2023. Disentangling spatiotemporal dynamics in metacommunities through a species-patch network approach. *Ecology Letters*, 26: 1261-1276. 
 - Li HD, Tang LF, Jia CX, Holyoak M, Fründ J, Huang XQ, Xiao ZS. 2023. Considering vertical space reveals hidden links and increased modularity of plant–frugivore networks, *Oikos*, 2023: e09327. 
-- Ji C, Li HD, Xiao W, Xu K, Ren Y, Li H, Wang P, Fan M, Huang X, Xiao Z. Fine-Scale Interactions between Leopard Cats and Their Potential Prey with Contrasting Diel Activities in a Livestock-Dominated Nature Reserve. *Animals*, 2023; 13(8):1296.
+- Ji C, Li HD, Xiao W, Xu K, Ren Y, Li H, Wang P, Fan M, Huang X, Xiao Z. 2023. Fine-Scale Interactions between Leopard Cats and Their Potential Prey with Contrasting Diel Activities in a Livestock-Dominated Nature Reserve. *Animals*, 13(8):1296.
 ## 2022    
 - Sun X#, Li HD#, Zhang A, Hirka A, Csóka G, Pearse I, Holyoak M, Xiao ZS. 2022. An intercontinental comparison of insect seed predation between introduced and native oaks. *Integrative Zoology*, 17(2): 217-230 (co-first author)
 - Zhao YH, Lázaro A, Li HD, Tao ZB, Liang H, Zhou W, Ren ZX, Xu K, Li DZ, Wang H. 2022. Morphological trait-matching in plant–Hymenoptera and plant–Diptera mutualisms across an elevational gradient. *Journal of Animal Ecology*, 91(1): 196-209. https://doi.org/10.1111/1365-2656.13614
