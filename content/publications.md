@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-# **Papers**       
+**Papers**       
 ## 2026         
 - LHD#, Zhao YH#, Holyoak M, Tao ZB, Xu K, Wu ZK, Wang H, Li DZ. 2026. Trophic and environmental generalists maintain pollinator network functional continuity by switching modules through time. *Ecology and Evolution*, 16(9): e74263. https://doi.org/10.1002/ece3.74263
 
